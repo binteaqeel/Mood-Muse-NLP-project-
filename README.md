@@ -11,15 +11,10 @@ Features:
 - Simple & Beautiful PyQt5 GUI
 - Custom-trained ML model using real datasets
 - Flask API integration for smart backend prediction
-- Cheatcode support (e.g. "I scored the winning run!" → 😊 Joyfully Rejoicing)
 - Light theme, emoji-rich output, smooth user experience
-- Offline support – no external emotion APIs
 
-Example Inputs:
-- "We won the university cricket match and I scored the winning run!" → 😊 Joyfully Rejoicing
-- "My best friend moved abroad today, and I already miss her." → 😢 Sad
-- "I'm lying on the rooftop after Fajr, watching the sky slowly turn blue." → 🌿 Calm
-- "I have my final viva tomorrow, and I can’t sleep properly." → 😰 Anxious
+Example Input:
+- "Finally I am done with my semester projects!" → 😊 relieved
 
 Tech Stack:
 Frontend: PyQt5 (Desktop GUI)
@@ -47,8 +42,6 @@ Folder Structure:
 - requirements.txt: List of dependencies
 
 Dataset:
-You can use either:
-- emotion-balanced (https://huggingface.co/datasets/AdamCodd/emotion-balanced)
 - GoEmotions Dataset (https://huggingface.co/datasets/go_emotions)
 
 The ML model is trained using TF-IDF + Logistic Regression.
@@ -59,9 +52,24 @@ Future Ideas:
 - Save mood journal
 - Use LSTM or BERT for more accurate results
 
-Author:
-Made with love by [Your Name]
-LinkedIn: https://www.linkedin.com/in/your-profile
 
 License:
 This project is licensed under the MIT License — feel free to use, modify, and share!
+
+![image](https://github.com/user-attachments/assets/85719bca-f196-4464-854c-61b7a9945bc9)
+![image](https://github.com/user-attachments/assets/85719bca-f196-4464-854c-61b7a9945bc9)
+
+
+![image](https://github.com/user-attachments/assets/5143e446-9235-40be-b370-9d1a9501ac1b)
+![image](https://github.com/user-attachments/assets/5143e446-9235-40be-b370-9d1a9501ac1b)
+
+
+![image](https://github.com/user-attachments/assets/86c095c1-66a2-4ca0-a90f-d30a695cbf23)
+![image](https://github.com/user-attachments/assets/86c095c1-66a2-4ca0-a90f-d30a695cbf23)
+
+
+![image](https://github.com/user-attachments/assets/e36a4dbd-1975-4b64-977a-4042a4c4e9f5)
+![image](https://github.com/user-attachments/assets/e36a4dbd-1975-4b64-977a-4042a4c4e9f5)
+
+
+
